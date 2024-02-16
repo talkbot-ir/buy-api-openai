@@ -8,6 +8,6 @@
 
 برای خرید api openai میتوانید از لینک زیر استفاده کنید:
 
-[خرید api openai](https://talkbot.ir/api-dcumentation)https://talkbot.ir/api-dcumentation
+[خرید api openai](https://talkbot.ir/api-dcumentation)
 
 با کمک این سرویس شما قادر خواهید بود، به وب سرویس های مختلف دیگری نیز متصل شوید. از جمله جستجوی گوگل، تبدیل متن به صوت، ساخت عکس با هوش مصنوعی، و ...
